@@ -1,0 +1,1 @@
+done - refactor: remove else's where there's a setError/Success as said function has an exit that makes else redundant
